@@ -38,3 +38,5 @@ Tokens are often issued to the public through a crowd sale called an initial coi
 [https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
 [https://www.ethereum.org](https://www.ethereum.org)
 [https://blockgeeks.com/guides/ethereum-token/](https://blockgeeks.com/guides/ethereum-token/)
+[https://hackernoon.com/how-to-create-a-token-factory-with-ethereum-part-1-85e84d1f38fc](https://hackernoon.com/how-to-create-a-token-factory-with-ethereum-part-1-85e84d1f38fc)
+[https://hackernoon.com/how-to-create-a-token-factory-with-ethereum-part-2-ce96a31a5f59](https://hackernoon.com/how-to-create-a-token-factory-with-ethereum-part-2-ce96a31a5f59)
