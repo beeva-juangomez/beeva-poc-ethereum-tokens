@@ -21,7 +21,7 @@ To investigate Ethereum ecosystem with focus on token creation and ICOs
 
 * [Embark](https://github.com/iurimatias/embark-framework): Framework that allows you to easily develop and deploy Decentralized Applications (DApps)
 
-To run the project just open you terminal and execute testRPC in background and run 'embark run' in the project root.
+To run the project just open your terminal and execute testRPC in background and run 'embark run' in the project root.
 
 ### What is Ethereum? <a name="what_is_ethereum"></a>
 
