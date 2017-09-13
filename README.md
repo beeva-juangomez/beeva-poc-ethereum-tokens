@@ -60,10 +60,6 @@ Once you run testRPC and Embark you can access to the URL provided. You will fin
 
 To develop smart contracts is not a difficult task for simple issues. However, if you want to develop complicated software within a smart contract you will find some difficulties. Solidity (the language chosen to develop smart contracts) is under development and needs more time to become a powerful language.
 
-The proliferation of new decentralization application platforms and independent blockchains has added additional difficulty to surveying the universe of tokens, as investors must not only analyze the application or system, but also the base protocol or infrastructure layer (like ethereum, waves or lisk) in numerous cases.
-
-Still, with proven demand and interest from both entrepreneurial and investor audiences and limited regulatory guidance, ICOs could continue to gain steam as a fundraising mechanism. How the structures, valuations and legalities evolve is a much larger question, but undoubtedly the continued and growing wave of token sales will focus the spotlight on each of these questions and more
-
 ### References <a name="references"></a>
 * [https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b)
 * [https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)

@@ -30,18 +30,15 @@ contract Token {
     return true;
   }
   function transferFrom( address from, address to, uint value) returns (bool ok) {
-    // if you don't have enough balance, throw
     if( _balances[from] < value ) {
       throw;
     }
-    // if you don't have approval, throw
     if( _approvals[from][msg.sender] < value ) {
       throw;
     }
     if( !safeToAdd(_balances[to], value) ) {
       throw;
     }
-    // transfer and return true
     _approvals[from][msg.sender] -= value;
     _balances[from] -= value;
     _balances[to] += value;
@@ -49,7 +46,6 @@ contract Token {
     return true;
   }
   function approve(address spender, uint value) returns (bool ok) {
-    // TODO: should increase instead
     _approvals[msg.sender][spender] = value;
     Approval( msg.sender, spender, value );
     return true;
